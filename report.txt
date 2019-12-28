@@ -1,0 +1,8 @@
+Bảng dữ liệu (dataV2.csv) gồm có 11914 dòng và 4 cột. Trong đó 4 cột lần lượt là Make, Model, Year, Number of Door.
+- Make là hãng sản xuất xe (e.g BMW, Acura, Lincoln...)
+- Model là Dòng xe (e.g ZDX, Zephyr, 1 Series M...)
+- Year là năm sản xuất (e.g 2011,...)
+- Number of Door là số cửa xe (e.g 2.0,4.0...)
+- Chỉ có 6 missing data và đều là các số liệu về số cửa. Vậy, lượng thông tin thiếu là 0.1%
+(Trong đó có 1 dữ liệu của Ferrari đời 2013 dòng FF còn lại đều của Tesla đời 2016 dòng Model S)
+
